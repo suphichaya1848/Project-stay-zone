@@ -1,0 +1,2 @@
+LOGO_PATH = "C:/Users/suphi/OneDrive/Desktop/project/photo/logo.jpg"          # ใส่โลโก้ถ้ามี
+BANNER_PATH = "C:/Users/suphi/OneDrive/Desktop/project/photo/Checkout.png"  # ✅ <<--- ใส่พาธรูป CHECKOUT ที่ต้องการ
